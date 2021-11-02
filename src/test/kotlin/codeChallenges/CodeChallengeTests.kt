@@ -62,4 +62,10 @@ class CodeChallengeTests {
 //        assertEquals(9, aNode.item)
 //        assert(nextNode == aNode.next)
     }
+
+    @Test
+    fun stringBuildBuildAH() {
+        var thisOne = oneAtATime()
+        assertEquals("A-Bb-Ccc-Dddd", thisOne.biggAh("abcd"),"one bigger for each")
+    }
 }

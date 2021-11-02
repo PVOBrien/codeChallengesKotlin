@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="codeChallenges.CodeChallengeTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-22T04:29:33" hostname="POBRIEN-DESKTOP" time="0.024">
+<testsuite name="codeChallenges.CodeChallengeTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-02T03:39:15" hostname="POBRIEN-DESKTOP" time="0.026">
   <properties/>
-  <testcase name="reverseFive" classname="codeChallenges.CodeChallengeTests" time="0.024"/>
-  <system-out><![CDATA[ydwoh ereht you
-]]></system-out>
+  <testcase name="stringBuildBuildAH" classname="codeChallenges.CodeChallengeTests" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
