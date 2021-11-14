@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="codeChallenges.CodeChallengeTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-02T03:39:15" hostname="POBRIEN-DESKTOP" time="0.026">
+<testsuite name="codeChallenges.CodeChallengeTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-14T19:27:42" hostname="POBRIEN-DESKTOP" time="0.006">
   <properties/>
-  <testcase name="stringBuildBuildAH" classname="codeChallenges.CodeChallengeTests" time="0.026"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="financeThis" classname="codeChallenges.CodeChallengeTests" time="0.006"/>
+  <system-out><![CDATA[The rate: 10.05
+The bal: 1006
+The term: 10
+The num_payments: 6
+rounded Interest Float: 101.103
+the new interest: 101.10300000000001
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

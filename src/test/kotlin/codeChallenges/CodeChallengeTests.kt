@@ -18,7 +18,7 @@ class CodeChallengeTests {
 
     @Test
     fun playOtherHW() {
-        var helloW = CodeChallenges.helloWorldOne() // how to initialize an object in kotlin
+        val helloW = CodeChallenges.helloWorldOne() // how to initialize an object in kotlin
         helloW.hW()
     }
 
@@ -65,7 +65,12 @@ class CodeChallengeTests {
 
     @Test
     fun stringBuildBuildAH() {
-        var thisOne = oneAtATime()
+        val thisOne = oneAtATime()
         assertEquals("A-Bb-Ccc-Dddd", thisOne.biggAh("abcd"),"one bigger for each")
+    }
+
+    @Test
+    fun financeThis(){
+        Finance.amort(10.05, 1006,10,6)
     }
 }
